@@ -32,7 +32,7 @@ bot.on('message', function(message){
        console.log("Ready");
    })
 
-    client.login(Procces.env.token);
+    client.login(procces.env.token);
     
   
     
